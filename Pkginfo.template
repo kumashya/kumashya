@@ -1,0 +1,13 @@
+%config
+MasterFile = standard;
+Category = general;
+OS = solaris10;
+name = grep;
+version = 2.27;
+%header
+
+Author: Gnu
+Packager: Rohan Stelling
+Summary: The GNU grep tool
+#SubPackages:
+
